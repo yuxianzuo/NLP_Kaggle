@@ -12,17 +12,13 @@ This repository contains code for a text classification task stored in the `text
 
 The project follows a workflow with four main sections:  
 
-1. **Data Exploration**  
-   - Understanding the dataset, preprocessing, and identifying languages.  
+1. **Data Exploration**: Understanding the dataset, preprocessing, and identifying languages.  
 
-2. **Fine-tuning**  
-   - Fine-tuning the mBERT model. 
+2. **Fine-tuning**: Fine-tuning the mBERT model. 
 
-3. **Evaluation**  
-   - Assessing the model's performance using performance metrics, classification report and confusion matrix.  
+3. **Evaluation**: Assessing the model's performance using performance metrics, classification report and confusion matrix.  
 
-4. **Submission**  
-   - Generating predictions for submission to the competition.  
+4. **Submission**: Generating predictions for submission to the competition.  
 
 ## Results  
 
